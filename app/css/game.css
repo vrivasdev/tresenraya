@@ -1,0 +1,14 @@
+body {  
+    margin: 0;
+    padding: 0;
+}
+
+table {
+    margin-left: 18%;
+}
+.table-responsive {
+    border: none;
+}
+.table-bordered td {
+    border: 10px solid #d5d5d5;
+}
